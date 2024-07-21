@@ -1,6 +1,17 @@
 # React Quiz App
 
-A quiz application built with React. It fetches questions from a server and allows users to answer them within a time limit. The app tracks the user's score and high score.
+The React Quiz App is a simple React application that allows users to take a quiz with multiple-choice questions.
+The app fetches quiz questions from a local server, tracks the user's progress, calculates their score,
+and displays the results at the end of the quiz.
+
+![react-quiz-1](https://github.com/user-attachments/assets/023d33c0-bb75-416f-a875-4b5f41db0403)
+
+![react-quiz-2](https://github.com/user-attachments/assets/ff406dcc-065f-4b96-8d32-fb47abe64272)
+
+![react-quiz-3](https://github.com/user-attachments/assets/19469a09-cabd-42e2-b0b1-f5a5af121d00)
+
+![react-quiz-4](https://github.com/user-attachments/assets/a5383a08-a527-40fe-9cca-1cadcb2d8970)
+
 
 ## Features
 
